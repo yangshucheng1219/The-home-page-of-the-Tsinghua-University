@@ -1,0 +1,22 @@
+.boxA{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.boxA:hover{
+    width: 400px;
+    height: 400px;
+    color: red;
+}
+.boxB{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.boxB:hover{
+    width: 400px;
+    height: 400px;
+    color: BLUE;
+}
